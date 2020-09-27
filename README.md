@@ -1,6 +1,6 @@
-[Ссылка на проект]()
+[Ссылка на проект](https://ivansergeev1.github.io/ahj-dnd2/)
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/ha89phdkak3swp9b?svg=true)](https://ci.appveyor.com/project/IvanSergeev1/ahj-dnd2)
 
 ### Modern Image Manager
 
